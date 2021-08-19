@@ -645,7 +645,7 @@ welcome
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../images/banner-bg.png);
+  background-image: url(../images/picture12.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover; 
@@ -1459,7 +1459,7 @@ footer .social li {
 }
 
 footer .social li a {
-  color: #9d5bd9;
+  color: var(--social-buttons);
    text-align: center;
   background-color: #fff;
   width: 36px;
