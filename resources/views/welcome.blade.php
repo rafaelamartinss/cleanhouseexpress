@@ -140,7 +140,7 @@ https://templatemo.com/tm-535-softy-pinko
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
-                    <img src="images/left-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="images/icon1.png" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
@@ -175,7 +175,7 @@ https://templatemo.com/tm-535-softy-pinko
                 </div>
                 <div class="col-lg-1"></div>
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
-                    <img src="images/right-image.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="images/icon2.png" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
             </div>
         </div>
@@ -199,42 +199,42 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="row">
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="images/work-process-item-01.png" alt=""></i>
+                            <i><img src="images/icon3.png" alt=""></i>
                             <strong>Get Ideas</strong>
                             <span>Godard pabst prism fam cliche.</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="images/work-process-item-01.png" alt=""></i>
+                            <i><img src="images/icon3.png" alt=""></i>
                             <strong>Sketch Up</strong>
                             <span>Godard pabst prism fam cliche.</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="images/work-process-item-01.png" alt=""></i>
+                            <i><img src="images/icon3.png" alt=""></i>
                             <strong>Discuss</strong>
                             <span>Godard pabst prism fam cliche.</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="images/work-process-item-01.png" alt=""></i>
+                            <i><img src="images/icon3.png" alt=""></i>
                             <strong>Revise</strong>
                             <span>Godard pabst prism fam cliche.</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="images/work-process-item-01.png" alt=""></i>
+                            <i><img src="images/icon3.png" alt=""></i>
                             <strong>Approve</strong>
                             <span>Godard pabst prism fam cliche.</span>
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="images/work-process-item-01.png" alt=""></i>
+                            <i><img src="images/icon3.png" alt=""></i>
                             <strong>Launch</strong>
                             <span>Godard pabst prism fam cliche.</span>
                         </a>
@@ -269,7 +269,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="images/testimonial-icon.png" alt=""></i>
+                            <i><img src="images/icon4.png" alt=""></i>
                             <p>Proin a neque nisi. Nam ipsum nisi, venenatis ut nulla quis, egestas scelerisque orci. Maecenas a finibus odio.</p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
@@ -287,7 +287,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="images/testimonial-icon.png" alt=""></i>
+                            <i><img src="images/icon4.png" alt=""></i>
                             <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.</p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
@@ -305,7 +305,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="team-item">
                         <div class="team-content">
-                            <i><img src="images/testimonial-icon.png" alt=""></i>
+                            <i><img src="images/icon4.png" alt=""></i>
                             <p>Quisque diam odio, maximus ac consectetur eu, auctor non lorem. Cras quis est non ante ultrices molestie. Ut vehicula et diam at aliquam.</p>
                             <div class="user-image">
                                 <img src="http://placehold.it/60x60" alt="">
