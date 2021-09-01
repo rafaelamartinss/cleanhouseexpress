@@ -22,6 +22,10 @@ https://templatemo.com/tm-535-softy-pinko
 
     <link rel="stylesheet" href="css/templatemo-softy-pinko.css">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+
     </head>
     
     <body>
@@ -44,8 +48,9 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="#" class="logo">
-                            <img src="images/logo.png" alt="Softy Pinko"/>
+                        <a href="#" class="logo" style="font-family: 'Lobster', cursive;color: #313131;font-size: 21px;">
+                            <!-- <img src="images/logo.png" alt="Softy Pinko"/> -->
+                            ThinkClean
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
