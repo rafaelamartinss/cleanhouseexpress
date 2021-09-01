@@ -102,7 +102,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                             <div class="features-small-item">
                                 <div class="icon">
-                                    <i><img src="images/featured-item-01.png" alt=""></i>
+                                    <i><img src="images/bucket (3).png" alt=""></i>
                                 </div>
                                 <h5 class="features-title">Professional Organizing</h5>
                                 <p>Customize anything in this template to fit your website needs</p>
@@ -114,7 +114,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                             <div class="features-small-item">
                                 <div class="icon">
-                                    <i><img src="images/featured-item-01.png" alt=""></i>
+                                    <i><img src="images/house (1).png"  style="width: 58px;" alt=""></i>
                                 </div>
                                 <h5 class="features-title">Packing and Unpacking</h5>
                                 <p>Contact us immediately if you have a question in mind</p>
@@ -126,7 +126,7 @@ https://templatemo.com/tm-535-softy-pinko
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
                             <div class="features-small-item">
                                 <div class="icon">
-                                    <i><img src="images/featured-item-01.png" alt=""></i>
+                                    <i><img src="images/oosouji.png" alt=""></i>
                                 </div>
                                 <h5 class="features-title">Residential Cleaning</h5>
                                 <p>You just need to tell your friends about our free templates</p>
