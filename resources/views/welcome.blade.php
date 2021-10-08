@@ -150,7 +150,7 @@ https://templatemo.com/tm-535-softy-pinko
                 <div class="col-lg-1"></div>
                 <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
                     <div class="left-heading">
-                        <h2 class="section-title">Let’s discuss about you project</h2>
+                        <h2 class="section-title">Deep House Cleaning Duty</h2> 
                     </div>
                     <div class="left-text">
                         <p>Nullam sit amet purus libero. Etiam ullamcorper nisl ut augue blandit, at finibus leo efficitur. Nam gravida purus non sapien auctor, ut aliquam magna ullamcorper.</p>
@@ -433,3 +433,42 @@ https://templatemo.com/tm-535-softy-pinko
 
   </body>
 </html>
+
+Primeira limpeza: (Deep House cleaning duty)   Bathroom 
+• Showers cleaned and disinfected -Shower door given extra attention
+• Tile walls cleaned and disinfected -Tile grout scrubbed
+• Baseboards wiped or dusted -Clean doors/frames for fingerprints
+• Trash removed -Wastebaskets sanitized
+• General dusting -Individual knickknacks cleaned
+• Toilets cleaned and disinfected, including the base and behind the toilet
+• Vanity and sink cleaned
+• Floors washed ( if require) and disinfected, carpets and rugs vacuumed
+• Mirrors and fixtures cleaned and shined
+• Mildew chemically treated
+• Cobwebs removed
+• Towels changed.                                The Kitchen
+• Outside of range hood cleaned -Inside of range hood cleaned
+• Top and front of range cleaned -Inside of oven cleaned
+• Baseboards wiped or dusted -Behind refrigerator and oven cleaned
+• Fronts of fridge and dishwasher cleaned- Inside of both cleaned
+• Floors vacuumed and mopped - Outside of cabinets cleaning
+• Wipe table and chairs- Doors/frames spot cleaned for fingerprints
+• Microwave wiped down -Inside of microwave cleaned
+• General dusting -Individual knickknacks cleaned
+• Countertops cleaned
+• Sinks cleaned and disinfected, chrome shined
+• Cobwebs removed.                             In Living and Sleeping Areas
+• Beds made -Clean/vacuum under the bed
+• Trash emptied -Wastebaskets sanitized
+• Flat surfaces cloth dusted -Lamp shades dusted or wiped down
+• All readily accessible floors vacuumed -Carpet edges vacuumed
+• Mirrors cleaned -Ceiling fan dusted and wiped
+• Picture frames dusted -Furniture and upholstery vacuumed
+• Windowsills and ledges wiped down -Mini-blinds dusted
+• Prominent knickknacks dusted -Every knickknack individually cleaned
+• Vents dusted
+• Stairs and closet floors vacuumed
+• Wood floors swept and dust mopped
+• Cobwebs removed
+• Baseboards dusted
+• Light, general straightening completed

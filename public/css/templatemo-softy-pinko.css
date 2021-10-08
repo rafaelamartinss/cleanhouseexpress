@@ -645,7 +645,7 @@ welcome
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../images/picture12.jpg);
+  background-image: url(../images/pic8.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover; 
@@ -857,8 +857,8 @@ parallax & home seperator
   opacity: .95;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
-  background-image: url(../images/picture14.jpg);
+  background-position: bottom;
+  background-image: url(../images/pic1.jpg);
   filter: blur(2px);
   z-index: 2;
   top: -20%;
