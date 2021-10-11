@@ -40,7 +40,7 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="#" class="logo" style="font-family: 'Lobster', cursive;color: #313131;font-size: 21px;">
+                        <a href="{{route('welcome')}}" class="logo">
                             <!-- <img src="images/logo.png" alt="Softy Pinko"/> -->
                             ThinkClean
                         </a>

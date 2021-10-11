@@ -403,6 +403,9 @@ header
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   margin-left: 30px;
+  font-family: 'Lobster', cursive;
+  color: #0062C0;
+  font-size: 21px;
 }
 
 .header-area .main-nav .logo img {
