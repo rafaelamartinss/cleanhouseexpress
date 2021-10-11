@@ -558,11 +558,11 @@ header
 }
 
 .header-area.header-sticky .nav li a {
-  color: #1e1e1e;
+  color: #858585;
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: var(--primary);
+  color: #3091effa;
 }
 
 @media (max-width: 1200px) {
@@ -1588,4 +1588,85 @@ preloader
   100% {
     opacity: 0;
   }
+}
+
+/* 
+---------------------------------------------
+booking
+--------------------------------------------- 
+*/
+.booking-body {
+  background: #efefef;
+}
+
+.booking-form {
+  color: #858585;
+}
+
+.booking-header {
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+}
+
+.booking-header::before {
+  filter: blur(2px);
+}
+
+.booking-header .header-text {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  margin-bottom: -20vh;
+}
+
+.booking-header .header-text h2 {
+  font-weight: 500;
+  line-height: 54px;
+  letter-spacing: 1.4px;
+  color: #3091effa;
+}
+
+.booking-header .header-text p {
+  font-weight: 400;
+  font-size: 15px;
+  color: #fff;
+  line-height: 28px;
+  letter-spacing: 0.25px;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.booking-section .booking-form {
+  padding: 40px;
+  background-color: #fff;
+  box-shadow: 0px 0px 15px rgb(0 0 0 / 10%);
+  margin-bottom: 20px;
+}
+
+.section-add-ons {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card-add-ons {
+  border: 1px solid #eee;
+  justify-content: flex;
+  text-align: center;
+  border-radius: 7px;
+  width: 15%;
+  margin-bottom: 10px;
+}
+
+.card-add-ons img {
+  width: 60%;
+  padding: 10px;
+}
+
+.card-add-ons p {
+  font-size: 15px;
 }
